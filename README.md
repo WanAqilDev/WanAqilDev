@@ -1,4 +1,4 @@
-👋 Hi, I'm Wan Aqil Hazim, based in Ipoh, Malaysia.
+👋 Hi, I'm Wan Aqil, based in Malaysia.
 
 💻 I am an IT Officer, Network & Systems Engineer, and Full-Stack Developer.
 
