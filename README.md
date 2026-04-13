@@ -4,7 +4,7 @@
 
 🛠️ My tech stack includes PHP, Laravel, JavaScript, HTML/CSS, Python, and MySQL. I also manage enterprise network infrastructure (MikroTik/Ruijie).
 
-📫 Contact me: wanaqilzulkarnain@gmail.com
+📫 Contact me: justcodeaqil@gmail.com
 
 <!---
 MrMidnightSnow/MrMidnightSnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
