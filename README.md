@@ -1,13 +1,7 @@
-👋 Hi, I’m Wan Aqil Hazim. 
-Currently living in Perak, Malaysia
-
-👀 I’m interested in learning about coding and programming.
-🌱 I’m currently learning electronic and information technology at engineering school.
-
-My coursework includes learning microP and microC like zilog Z80 and PIC16F877A.
-I've also learned Java programming language, HTML & CSS, PHP and also a bit of C programming language.
-
-📫 You can contact me through my email: wanaqilzulkarnain@gmail.com
+👋 Hi, I'm Wan Aqil Hazim, based in Ipoh, Malaysia.
+💻 I am an IT Officer, Network & Systems Engineer, and Full-Stack Developer.
+🛠️ My tech stack includes PHP, Laravel, JavaScript, HTML/CSS, Python, and MySQL. I also manage enterprise network infrastructure (MikroTik/Ruijie).
+📫 Contact me: wanaqilzulkarnain@gmail.com
 
 <!---
 MrMidnightSnow/MrMidnightSnow is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
